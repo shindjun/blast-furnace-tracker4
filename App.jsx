@@ -1,1 +1,1 @@
-// App component will be added next
+export default function App() { return <h1>Hello 고로!</h1>; }
